@@ -1,5 +1,7 @@
 # Hi, I'm Reabetswe Tsotetsi
-![ReabetwePic](https://github.com/user-attachments/assets/5d7b975b-1492-4238-9368-6b15d3cdc704)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5d7b975b-1492-4238-9368-6b15d3cdc704" alt="ReabetswePic" width="300"/>
+</div>
 
 Aspiring Data Analyst and BI Developer passionate about transforming raw data into actionable insights. I specialize in Power BI, SQL, Excel, and Python, and I'm actively building projects that simulate real-world business scenarios.
 
