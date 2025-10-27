@@ -21,9 +21,8 @@ Aspiring Data Analyst and BI Developer passionate about transforming raw data in
 
 ## Currently Working On
 
-- Building new projects in marketing analytics and automation
-- Practicing SQL and preparing for technical analyst interviews
-- Exploring SAP Analytics Cloud and enterprise data models
+- Strengthining technical skills and Building new projects in analytics and automation
+  
 
 Reach me at: rtsotetsi21@gmail.com | 068 214 2260
 🔗 [LinkedIn](https://www.linkedin.com/in/reabetswe-tsotetsi-112662349/)
