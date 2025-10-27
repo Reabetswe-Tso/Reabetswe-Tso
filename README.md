@@ -10,7 +10,7 @@ Aspiring Data Analyst and BI Developer passionate about transforming raw data in
 | [Insurance Risk Analysis](https://github.com/Reabetswe-Tso/InsuranceRiskDashboard) | Power BI | Analyzed claims and policyholder risk to support segmentation strategies |
 | [Netflix SQL Analysis](https://github.com/Reabetswe-Tso/NetflixSQL) | SQL | Queried 6,000+ titles to uncover genre and rating trends |
 | [Bike Sales Dashboard](https://github.com/Reabetswe-Tso/BikeSalesExcel) | Excel | Explored purchasing behavior using pivot tables and slicers |
-| [Video Game Sales Analysis](https://github.com/Reabetswe-Tso/GameSalesPython) | Python | Cleaned and visualized 11K+ records to uncover global sales trends |
+| [Video Game Sales Analysis](https://github.com/Reabetswe-Tso/VideoGameAnalysis) | Python | Cleaned and visualized 11K+ records to uncover global sales trends |
 
 ## Certifications & Learning
 - GirlCode Python Bootcamp (2025)
