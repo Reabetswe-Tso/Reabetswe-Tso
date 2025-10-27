@@ -11,7 +11,7 @@ Aspiring Data Analyst and BI Developer passionate about transforming raw data in
 | [Phone Brand Sales Analysis](https://github.com/Reabetswe-Tso/VideoGameAnalysis) | Power BI | Designed an interactive dashboard to analyze iPhone user behavior |
 | [Netflix SQL Analysis](https://github.com/Reabetswe-Tso/NetflixAnalysis_SQL) | SQL | Queried 6,000+ titles to uncover genre and rating trends |
 | [Bike Sales Dashboard](https://github.com/Reabetswe-Tso/Bike-Sales-_Analysis) | Excel | Explored purchasing behavior using pivot tables and slicers |
-| [Coffee Shop Sales](https://github.com/Reabetswe-Tso/VideoGameAnalysis) | Excel | Automated profit calculations and visualized seasonal trends for monthly sales data |
+| [Coffee Shop Sales](https://github.com/Reabetswe-Tso/CoffeeShopAnalysis_EXCEL) | Excel | Automated profit calculations and visualized seasonal trends for monthly sales data |
 | [Video Game Sales Analysis](https://github.com/Reabetswe-Tso/VideoGameAnalysis) | Python | Cleaned and visualized 11K+ records to uncover global sales trends |
 
 ## Certifications & Learning
