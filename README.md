@@ -26,14 +26,16 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 | **[ATM Simulation System](https://github.com/Reabetswe-Tso/ATM_SIMULATION)** | Python, Tkinter | Built desktop banking application simulating ATM operations including deposits, withdrawals, and balance checking. Implemented PIN authentication with security features and transaction validation for financial services workflows. |
 | **[Insurance Risk Analysis](https://github.com/Reabetswe-Tso/InsuranceAnalysis)** | Power BI | Analyzed insurance claims and policyholder risk profiles to support customer segmentation strategies and identify high-risk segments for targeted risk management. |
 
-### Business Intelligence & Dashboards
+### Business Intelligence/ Business Analysis & Dashboards | Advanced Excel & PowerBi
 
 | Project | Technologies | Description |
 |---------|-------------|-------------|
+| **[Call Centre Operational Analysis](https://github.com/Reabetswe-Tso/Operational-Analysis--Call-Center)** | Excel | Analyzed call centre operational data to identify drivers of high service costs and performance inefficiencies. Investigated call demand by shift, overtime allocation, escalation rates, and team performance to uncover operational bottlenecks and recommend staffing and training improvements. |
 | **[Data Professional Survey Dashboard](https://github.com/Reabetswe-Tso/Data-Professional-Survey)** | Power BI | Visualized salary trends, job satisfaction, and career patterns across 630+ technology professionals using interactive Power BI dashboards with dynamic filters and KPIs. |
 | **[Phone Brand Sales Analysis](https://github.com/Reabetswe-Tso/Phone_Brand_-Analysis)** | Power BI | Designed interactive dashboard analyzing sales performance, brand popularity, and customer purchasing behavior to support business decision-making. |
 | **[Bike Sales Dashboard](https://github.com/Reabetswe-Tso/Bike-Sales-_Analysis)** | Excel | Explored customer purchasing behavior using advanced Excel features including pivot tables, slicers, and dynamic visualizations. |
 | **[Coffee Shop Sales Analysis](https://github.com/Reabetswe-Tso/CoffeeShopAnalysis_EXCEL)** | Excel | Automated profit calculations and visualized seasonal sales trends using Excel formulas, data validation, and chart creation. |
+
 
 ### Data Analysis & SQL
 
