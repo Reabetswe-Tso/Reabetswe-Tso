@@ -18,14 +18,6 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 
 ## Featured Projects
 
-### Financial Services & Analytics
-
-| Project | Technologies | Description |
-|---------|-------------|-------------|
-| **[Banking Transaction Analysis](https://github.com/Reabetswe-Tso/Banking_Analysis)** | SQL, Python, MySQL | Analyzed 5,000+ banking transactions across 500+ customers using advanced SQL queries. Built normalized database schema, performed fraud detection analysis, customer segmentation, and loan portfolio risk assessment. Demonstrated 67% digital banking adoption through channel analysis. |
-| **[ATM Simulation System](https://github.com/Reabetswe-Tso/ATM_SIMULATION)** | Python, Tkinter | Built desktop banking application simulating ATM operations including deposits, withdrawals, and balance checking. Implemented PIN authentication with security features and transaction validation for financial services workflows. |
-| **[Insurance Risk Analysis](https://github.com/Reabetswe-Tso/InsuranceAnalysis)** | Power BI | Analyzed insurance claims and policyholder risk profiles to support customer segmentation strategies and identify high-risk segments for targeted risk management. |
-
 ### Business Intelligence/ Business Analysis & Dashboards | Advanced Excel & PowerBi
 
 | Project | Technologies | Description |
@@ -43,6 +35,15 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 |---------|-------------|-------------|
 | **[Netflix Content Analysis](https://github.com/Reabetswe-Tso/NetflixAnalysis_SQL)** | SQL | Queried and analyzed 6,000+ titles using SQL joins, aggregations, and filtering to uncover content trends across genres, ratings, and release years. |
 | **[Video Game Sales Analysis](https://github.com/Reabetswe-Tso/VideoGameAnalysis)** | Python | Cleaned and analyzed 11,000+ records using Python (Pandas, Matplotlib) to visualize global sales trends and identify market patterns. |
+
+### Financial Services & Analytics
+
+| Project | Technologies | Description |
+|---------|-------------|-------------|
+| **[Banking Transaction Analysis](https://github.com/Reabetswe-Tso/Banking_Analysis)** | SQL, Python, MySQL | Analyzed 5,000+ banking transactions across 500+ customers using advanced SQL queries. Built normalized database schema, performed fraud detection analysis, customer segmentation, and loan portfolio risk assessment. Demonstrated 67% digital banking adoption through channel analysis. |
+| **[ATM Simulation System](https://github.com/Reabetswe-Tso/ATM_SIMULATION)** | Python, Tkinter | Built desktop banking application simulating ATM operations including deposits, withdrawals, and balance checking. Implemented PIN authentication with security features and transaction validation for financial services workflows. |
+| **[Insurance Risk Analysis](https://github.com/Reabetswe-Tso/InsuranceAnalysis)** | Power BI | Analyzed insurance claims and policyholder risk profiles to support customer segmentation strategies and identify high-risk segments for targeted risk management. |
+
 
 ---
 
